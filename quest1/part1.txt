@@ -1,0 +1,3 @@
+Lazlar,Rylarris,Rythanmir,Zalnoris,Durnnor,Maralzral,Zraalsor,Anororis,Jaerfelix,Caelthyris
+
+L8,R9,L2,R4,L1,R3,L1,R2,L4,R8,L8
